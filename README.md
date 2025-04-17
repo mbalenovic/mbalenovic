@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mile.balenovic@gmail.com**
 
-- ⚡ Fun fact **I'm fun.**
+- ⚡ Fun fact **I don't know everything :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
