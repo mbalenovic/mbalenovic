@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mile</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🔭 I’m currently working on [Frontend microservices](https://github.com/mbalenovic/fe-microservices)
+- 🔭 I’m currently working on [Reddit clone](https://github.com/mbalenovic/reddit-clone)
 
 - 💬 Ask me about **anything**
 
