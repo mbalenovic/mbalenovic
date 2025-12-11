@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Reddit clone](https://github.com/mbalenovic/reddit-clone)
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **mile.balenovic@gmail.com**
 
-- ⚡ Fun fact **I don't know everything :)**
+- ⚡ Fun fact **I love scuba diving :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
