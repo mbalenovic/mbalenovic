@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mile</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🔭 I starter writing a [blog](https://milebalenovic.com/)
+- 🔭 I started writing a [blog](https://milebalenovic.com/)
 
 - 📫 How to reach me **mile.balenovic@gmail.com**
 
